@@ -1,7 +1,7 @@
 # Bar
 Bar Rainmeter theme for laptops
 
-![](img.png)
+![](https://github.com/kaugm/Bar/blob/master/img.png)  
 Displays  
 1. Date
 2. External IP
