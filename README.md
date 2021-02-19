@@ -1,6 +1,7 @@
 # Bar
 Simple bar Rainmeter theme for laptops
 
+![](https://github.com/kaugm/Bar/blob/master/closeup.png)
 ![](https://github.com/kaugm/Bar/blob/master/mockup.png)
 
 
